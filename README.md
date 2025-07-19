@@ -34,5 +34,14 @@ pip install covid leather pandas
     ```
     - Select a country or view global data.
     - Explore real-time updates and charts.
+# Output
+- Top 5 countries by confirmed cases
+- Death and recovery rates
+- Bar and line plots using leather
+# Contact
+Feel free to connect:
+- Linkedin: https://www.linkedin.com/in/aaqib2212/
+- Mail: aaqibbelim0@gmail.com
+
 
 
