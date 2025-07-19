@@ -17,3 +17,10 @@ This notebook demonstrates how to:
 | `leather` | Lightweight plotting              |
 | `pandas`  | Data processing and tabular stats |
 | `time`    | Delays for sequential display     |
+# Installation
+**Clone the repository**
+ ```bash
+git clone https://github.com/Aaqib2212/covid-live-analysis.git
+cd covid-live-analysis
+```
+
