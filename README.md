@@ -40,7 +40,7 @@ pip install covid leather pandas
 - Bar and line plots using leather
 **Preview**
   - Top Countries Output
-   <img width="1908" height="968" alt="Screenshot 2025-07-19 200108" src="https://github.com/user-attachments/assets/5404f9a2-4836-4dcd-a994-2294d70aa861" />
+    <img width="1908" height="968" alt="Screenshot 2025-07-19 200108" src="https://github.com/user-attachments/assets/5404f9a2-4836-4dcd-a994-2294d70aa861" />
   - Total Cases
   <img width="1894" height="997" alt="Screenshot 2025-07-19 200340" src="https://github.com/user-attachments/assets/b718e93f-1a7d-4efc-a9b4-93f01332949a" />
 
