@@ -29,7 +29,7 @@ pip install covid leather pandas
 ```
 # How to run the code
 - Open the notebook
--  ```bash
+   ```bash
 jupyter notebook Covid_Data_Analysis.ipynb
    ```
 - Select a country or view global data.
