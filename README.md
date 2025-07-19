@@ -44,6 +44,9 @@ pip install covid leather pandas
   - Total Cases
   <img width="1894" height="997" alt="Screenshot 2025-07-19 200340" src="https://github.com/user-attachments/assets/b718e93f-1a7d-4efc-a9b4-93f01332949a" />
 
+# License
+This project is open-source and available under the MIT License.
+
 # Contact
 Feel free to connect:
 - Linkedin: https://www.linkedin.com/in/aaqib2212/
